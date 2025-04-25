@@ -8,3 +8,7 @@
  
  ## Site
  O site, hospedado pelo próprio Github, encontra-se abaixo:
+ https://annurb.github.io/Jogo-de-vidro/
+
+ ## Tecnologias utilizadas
+ HTML5 - Javascript - CSS
